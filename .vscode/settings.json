@@ -1,0 +1,30 @@
+{
+    "cmake.sourceDirectory": "/workspaces/codespaces-demo-cpp/src",
+    "files.associations": {
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "math.h": "c",
+        "assert.h": "c",
+        "ctype.h": "c",
+        "errno.h": "c",
+        "locale.h": "c",
+        "setjmp.h": "c",
+        "signal.h": "c",
+        "time.h": "c",
+        "wchar.h": "c",
+        "wctype.h": "c",
+        "tgmath.h": "c",
+        "complex.h": "c",
+        "fenv.h": "c",
+        "threads.h": "c",
+        "uchar.h": "c",
+        "inttypes.h": "c",
+        "stdint.h": "c",
+        "stdbool.h": "c",
+        "iso646.h": "c",
+        "limits.h": "c",
+        "float.h": "c",
+        "type_traits": "c"
+    }
+}
